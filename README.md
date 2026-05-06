@@ -9,15 +9,14 @@
 ## 🧠 Sobre Mim
 
 - 💼 Atualmente trabalho com **Protheus** e **ADVPL**
-- 📚 Estudando **Java**, **C**, **cibersegurança** e **automação**
-- 👨‍💻 Buscando sempre aprimorar minhas habilidades e criar soluções criativas!
+- 📚 **Java**, **Python**, **SQL** e **SpringBoot**
 
 ---
 
 ## 🚀 Tecnologias e Ferramentas
 
 ![ADVPL](https://img.shields.io/badge/ADVPL-0066cc?style=for-the-badge)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Protheus](https://img.shields.io/badge/Protheus-7B1FA2?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
