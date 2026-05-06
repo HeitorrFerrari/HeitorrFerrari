@@ -10,19 +10,7 @@
 
 - 💼 Atualmente trabalho com **Protheus** e **ADVPL**
 - 📚 **Java**, **Python**, **SQL** e **SpringBoot**
-
----
-
-## 🚀 Tecnologias e Ferramentas
-
-![ADVPL](https://img.shields.io/badge/ADVPL-0066cc?style=for-the-badge)
-![Python](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Protheus](https://img.shields.io/badge/Protheus-7B1FA2?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-
----
-
+  
 ## 📈 Estatísticas
 
 <p align="center">
@@ -34,9 +22,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HeitorFerrari&theme=radical" />
 </p>
 
----
 
-## 🏆 Conquistas
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=HeitorFerrari&theme=radical&margin-w=15&no-frame=true)
 
